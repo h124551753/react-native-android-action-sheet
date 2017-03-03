@@ -1,10 +1,10 @@
 {
-    "name": "react-native-android-action-sheet",
+    "name": "rn-android-actionsheet",
     "version": "0.0.1",
     "description": "ActionSheet on Android for React Native",
     "main": "index.js",
-    "author": "Jingyao Zong <zongjingyao@gmail.com> (https://github.com/zongjingyao)",
-    "homepage": "https://github.com/zongjingyao/react-native-android-action-sheet",
+    "author": "hui <hehuiiecas11@gmail.com> (https://github.com/h124551753)",
+    "homepage": "https://github.com/h124551753/react-native-android-action-sheet",
     "keywords": [
         "react",
         "android",
@@ -20,9 +20,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zongjingyao/react-native-android-action-sheet.git"
+        "url": "git+https://github.com/h124551753/react-native-android-action-sheet.git"
     },
     "bugs": {
-        "url": "https://github.com/zongjingyao/react-native-android-action-sheet/issues"
+        "url": "https://github.com/h124551753/react-native-android-action-sheet/issues"
     }
 }
