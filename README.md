@@ -4,7 +4,7 @@ it implements AcionSheet for Android relys on [AndroidActionSheet](https://githu
 
 ## Installing react-native-android-action-sheet
 ```bash
-npm install react-native-android-action-sheet --save
+npm install rn-android-actionsheet --save
 ```
 
 ## Android
